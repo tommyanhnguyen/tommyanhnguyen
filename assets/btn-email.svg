@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="56" viewBox="0 0 270 56" role="img" aria-label="Email">
+  <title>Email</title>
+  <rect x="0.5" y="0.5" width="269" height="55" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x="12" y="12" width="32" height="32" rx="9" fill="#39d0d8" fill-opacity="0.14" stroke="#39d0d8" stroke-opacity="0.5"/>
+  <g transform="translate(28,28)" fill="none" stroke="#39d0d8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="-8" y="-6" width="16" height="12" rx="2"/><path d="M-8,-5 L0,1 L8,-5"/></g>
+  <text x="56" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#e6edf3">Email</text>
+  <text x="56" y="43" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8b949e">anhnguyen171105@gmail.com</text>
+  <path d="M248,23 l5,5 l-5,5" fill="none" stroke="#8b949e" stroke-width="1.6" stroke-linecap="round"/>
+</svg>
