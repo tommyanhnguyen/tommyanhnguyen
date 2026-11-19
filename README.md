@@ -12,9 +12,6 @@
   <img src="assets/card-shelfsense.svg" width="100%" alt="ShelfSense" />
 </a>
 
-<p>
-  <a href="https://github.com/tommyanhnguyen/Intelligent-IoT-Data-Management"><img src="assets/card-iiot.svg" width="49%" alt="IoT Data Management" /></a>
-  <a href="https://github.com/tommyanhnguyen/house-price-pipeline"><img src="assets/card-house.svg" width="49%" alt="House Price Pipeline" /></a>
-</p>
+<p><a href="https://github.com/tommyanhnguyen/Intelligent-IoT-Data-Management"><img src="assets/card-iiot.svg" width="50%" alt="IoT Data Management" /></a><a href="https://github.com/tommyanhnguyen/house-price-pipeline"><img src="assets/card-house.svg" width="50%" alt="House Price Pipeline" /></a></p>
 
 **Research** — style-induced degradation in multilingual sentence embeddings, with a Vietnamese focus (SimCSE · E5 · LaBSE).
