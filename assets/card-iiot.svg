@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="250" viewBox="0 0 490 250" role="img" aria-label="IoT Data Management">
+  <title>IoT Data Management</title>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39d0d8"/><stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#ffffff" opacity="0.05"/>
+    </pattern>
+    <radialGradient id="glowA" cx="0.15" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#39d0d8" stop-opacity="0.16"/><stop offset="1" stop-color="#39d0d8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.95" cy="1" r="0.7">
+      <stop offset="0" stop-color="#a371f7" stop-opacity="0.16"/><stop offset="1" stop-color="#a371f7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="489" height="249" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="489" height="249" rx="16" fill="url(#dots)"/>
+  <rect x="0.5" y="0.5" width="489" height="249" rx="16" fill="url(#glowA)"/>
+  <rect x="0.5" y="0.5" width="489" height="249" rx="16" fill="url(#glowB)"/>
+  <text x="32" y="48" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#d29922" letter-spacing="1.5">CAPSTONE · JUNIOR LEAD</text>
+  <text x="32" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="25" font-weight="700" fill="#e6edf3">IoT Data Management</text>
+  <text x="32" y="120" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14.5" fill="#8b949e">Detects correlation breaks &amp; anomalies</text>
+  <text x="32" y="141" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14.5" fill="#8b949e">across live IoT sensor streams.</text>
+  <text x="32" y="162" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14.5" fill="#8b949e">Led the Correlation Change Alert team.</text>
+  <g opacity="0.9">
+    <path d="M360,60.0 L364,63.92633636155383 L368,67.42043763683685 L372,70.09765181769475 L376,71.66325481635975 L380,71.94489549302118 L384,70.91156912190817 L388,68.67703058085989 L392,65.48727151962974 L396,61.693440096718405 L400,57.71318444549418 L404,53.984675416939865 L408,50.918370056304866 L412,48.85182598475086 L416,48.01254099482486 L420,48.492908704042335 L424,50.24004730118904 L428,53.06162109906829 L432,56.64701402161289 L436,60.60152411858607 L440,64.48981476685464 L444,67.88383918462547 L448,70.40996243542567 L452,71.79009344383648 L456,71.87229895948059" fill="none" stroke="#39d0d8" stroke-width="2"/>
+    <path d="M360,66.0 L364,69.92633636155382 L368,73.42043763683685 L372,76.09765181769475 L376,77.66325481635975 L380,77.94489549302118 L384,76.91156912190817 L388,74.67703058085989 L392,71.48727151962974 L396,67.6934400967184 L400,63.71318444549418 L404,59.984675416939865 L408,56.918370056304866 L412,54.85182598475086 L416,75.98917835460104 L420,77.61503606437783 L424,77.96223966685903 L428,76.99256686898242 L432,74.81276517448936 L436,71.66280046676623 L440,67.88944009884081 L444,63.908078625324244 L448,60.15700863287091 L452,57.049170815424404 L456,54.92669494064632" fill="none" stroke="#a371f7" stroke-width="2"/>
+    <line x1="416" y1="38" x2="416" y2="90" stroke="#d29922" stroke-dasharray="3 3"/>
+    <text x="416" y="32" text-anchor="middle" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10" fill="#d29922">ρ break</text>
+  </g>
+  <g transform="translate(32,196)"><rect width="68" height="26" rx="13" fill="#161b22" stroke="#30363d"/><text x="34.0" y="17.5" text-anchor="middle" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#8b949e">Python</text></g>
+  <g transform="translate(108,196)"><rect width="68" height="26" rx="13" fill="#161b22" stroke="#30363d"/><text x="34.0" y="17.5" text-anchor="middle" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#8b949e">Pandas</text></g>
+  <g transform="translate(184,196)"><rect width="60" height="26" rx="13" fill="#161b22" stroke="#30363d"/><text x="30.0" y="17.5" text-anchor="middle" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#8b949e">Flask</text></g>
+  <g transform="translate(252,196)"><rect width="60" height="26" rx="13" fill="#161b22" stroke="#30363d"/><text x="30.0" y="17.5" text-anchor="middle" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#8b949e">React</text></g>
+</svg>
